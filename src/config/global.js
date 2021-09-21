@@ -330,6 +330,10 @@ export const creditos = {
       cargo: 'Desarrollo front-end',
     },
     {
+      nombre: 'Edward Leonardo Pico Cabra',
+      cargo: 'Desarrollo front-end',
+    },
+    {
       nombre: 'Yuli Marcela Gómez Tarazona',
       cargo: 'Validación de diseño y contenido',
     },
